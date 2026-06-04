@@ -1,0 +1,47 @@
+- name: Priyank Jaini
+  affiliation: "Google DeepMind"
+  url: ""
+  img: ""
+  bio: ""
+
+- name: Robert Geirhos
+  affiliation: "Google DeepMind"
+  url: ""
+  img: ""
+  bio: ""
+
+- name: "Carsten T. Lüth"
+  affiliation: "Anates Labs"
+  url: "https://sten2lu.github.io"
+  img: "https://sten2lu.github.io/assets/img/prof_pic-800.webp"
+  bio: ""
+
+- name: "Tim Rädsch"
+  affiliation: "Technical University of Munich"
+  url: ""
+  img: ""
+  bio: ""
+
+- name: "Thaddäus Wiedemer"
+  affiliation: "Max Planck Instute for Intelligent Systems"
+  url: ""
+  img: ""
+  bio: ""
+
+- name: Jana Zeller
+  affiliation: "ETH Max Planck Center for Learning Systems"
+  url: ""
+  img: ""
+  bio: ""
+
+- name: Adriana Romero Soriano
+  affiliation: "Meta"
+  url: ""
+  img: ""
+  bio: ""
+
+- name: Effie Li
+  affiliation: "Google DeepMind"
+  url: ""
+  img: ""
+  bio: ""

@@ -1,0 +1,55 @@
+- name: Saining Xie
+  affiliation: "AMI Labs / NYU"
+  url: "https://www.sainingxie.com"
+  img: "https://www.sainingxie.com/imgs/profile_nana_banana.png"
+  bio: ""
+  confirmed: true
+
+- name: Viorica Patraucean
+  affiliation: "Google DeepMind"
+  url: "https://scholar.google.com/citations?user=hWzXZUMAAAAJ&hl=en"
+  img: "https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=hWzXZUMAAAAJ&citpid=1"
+  bio: ""
+  confirmed: true
+
+- name: Yuki Asano
+  affiliation: "University of Technology Nuremberg"
+  url: "https://yukimasano.github.io"
+  img: "https://yukimasano.github.io/assets/img/yuki.jpeg"
+  bio: ""
+  confirmed: true
+
+- name: Valentin Gabeur
+  affiliation: "Google DeepMind"
+  url: "https://gabeur.github.io"
+  img: "https://gabeur.github.io/images/valentin_profile_pic.jpg"
+  bio: ""
+  confirmed: true
+
+- name: Yann LeCun
+  affiliation: "AMI Labs / NYU"
+  url: "http://yann.lecun.com"
+  img: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Laura_Chaubard_%26_Yann_Le_Cun_-_2024_%2853814052697%29_%28cropped%29.jpg/500px-Laura_Chaubard_%26_Yann_Le_Cun_-_2024_%2853814052697%29_%28cropped%29.jpg"
+  bio: ""
+  confirmed: false
+
+- name: Sanja Fidler
+  affiliation: "Nvidia / University of Toronto"
+  url: "https://www.cs.utoronto.ca/~fidler/"
+  img: "https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=CUlqK5EAAAAJ&citpid=2"
+  bio: ""
+  confirmed: false
+
+- name: Ziwei Liu
+  affiliation: "Nanyang Technological University"
+  url: "https://liuziwei7.github.io"
+  img: "https://liuziwei7.github.io/homepage_files/me.png"
+  bio: ""
+  confirmed: false
+
+- name: Ethan He
+  affiliation: "xAI"
+  url: "https://ethanhe.ai"
+  img: "https://ethanhe.ai/profile.jpg"
+  bio: ""
+  confirmed: false
