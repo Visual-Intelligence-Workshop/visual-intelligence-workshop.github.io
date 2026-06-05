@@ -1,13 +1,13 @@
-- name: Priyank Jaini
+- name: "Priyank Jaini"
   affiliation: "Google DeepMind"
-  url: ""
-  img: ""
+  url: "https://priyankjaini.github.io/"
+  img: "https://priyankjaini.github.io/images/Priyank_Jaini.jpg"
   bio: ""
 
-- name: Robert Geirhos
+- name: "Robert Geirhos"
   affiliation: "Google DeepMind"
-  url: ""
-  img: ""
+  url: "robertgeirhos.com "
+  img: "assets/img/rob_geirhos.png"
   bio: ""
 
 - name: "Carsten T. Lüth"
@@ -18,30 +18,30 @@
 
 - name: "Tim Rädsch"
   affiliation: "Technical University of Munich"
-  url: ""
-  img: ""
+  url: "https://timraedsch.com"
+  img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzg2_Z_CSbo_M85sKjyCG9vSpxfrh6L0WTCA&s"
   bio: ""
 
 - name: "Thaddäus Wiedemer"
   affiliation: "Max Planck Instute for Intelligent Systems"
-  url: ""
-  img: ""
+  url: "thwiedemer.com"
+  img: "https://thwiedemer.com/author/thaddaus-wiedemer/avatar_hu9547486193211809809.jpg"
   bio: ""
 
-- name: Jana Zeller
+- name: "Jana Zeller"
   affiliation: "ETH Max Planck Center for Learning Systems"
-  url: ""
-  img: ""
+  url: "https://jana-z.github.io/ "
+  img: "https://jana-z.github.io/images/IMG_3722.jpeg"
   bio: ""
 
-- name: Adriana Romero Soriano
-  affiliation: "Meta"
-  url: ""
-  img: ""
+- name: "Adriana Romero Soriano"
+  affiliation: "FAIR at Meta / Mila (Québec AI Institute) / McGill University"
+  url: "https://sites.google.com/site/adriromsor/home"
+  img: "https://lh3.googleusercontent.com/sitesv/AA5AbUDlaYHkSRE23EfdZVaIB4u1RKHuwdM8sF_L4YzLEP0MxltcqzYRs3YihM4YvfVsQ2bX9PWPD3NloWSJLB_af9k4VS7CpaV1X-OlHoJVsD7prmF4tJkRRdVh7VE_gmNJf4VG6D8hzlUuF_synFObzKTm1Eb9XCJpfDIGOT-lnAAWsEuljPssHHCyElC8aDkFo1ULPyVWOTZKZs2i4oalOPjKtdmZ8wWu5_181C0iWeo=w1280"
   bio: ""
 
-- name: Effie Li
+- name: "Effie Li"
   affiliation: "Google DeepMind"
-  url: ""
-  img: ""
+  url: "https://effie-li.github.io"
+  img: "https://effie-li.github.io/assets/img/prof_pic.jpg"
   bio: ""

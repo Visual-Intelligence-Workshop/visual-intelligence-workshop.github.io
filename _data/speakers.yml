@@ -47,9 +47,9 @@
   bio: ""
   confirmed: false
 
-- name: Ethan He
-  affiliation: "xAI"
-  url: "https://ethanhe.ai"
-  img: "https://ethanhe.ai/profile.jpg"
-  bio: ""
-  confirmed: false
+# - name: Ethan He
+#   affiliation: "xAI"
+#   url: "https://ethanhe.ai"
+#   img: "https://ethanhe.ai/profile.jpg"
+#   bio: ""
+#   confirmed: false
