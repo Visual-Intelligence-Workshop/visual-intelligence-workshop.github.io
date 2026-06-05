@@ -1,7 +1,7 @@
 - name: "Priyank Jaini"
   affiliation: "Google DeepMind"
   url: "https://priyankjaini.github.io/"
-  img: "https://priyankjaini.github.io/images/Priyank_Jaini.jpg"
+  img: "assets/img/priy_jaini.jpg"
   bio: ""
 
 - name: "Robert Geirhos"
@@ -37,7 +37,7 @@
 - name: "Adriana Romero Soriano"
   affiliation: "FAIR at Meta / Mila (Québec AI Institute) / McGill University"
   url: "https://sites.google.com/site/adriromsor/home"
-  img: "https://lh3.googleusercontent.com/sitesv/AA5AbUDlaYHkSRE23EfdZVaIB4u1RKHuwdM8sF_L4YzLEP0MxltcqzYRs3YihM4YvfVsQ2bX9PWPD3NloWSJLB_af9k4VS7CpaV1X-OlHoJVsD7prmF4tJkRRdVh7VE_gmNJf4VG6D8hzlUuF_synFObzKTm1Eb9XCJpfDIGOT-lnAAWsEuljPssHHCyElC8aDkFo1ULPyVWOTZKZs2i4oalOPjKtdmZ8wWu5_181C0iWeo=w1280"
+  img: "assets/img/adri_soriano.jpg"
   bio: ""
 
 - name: "Effie Li"
