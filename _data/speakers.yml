@@ -6,7 +6,7 @@
   confirmed: true
 
 - name: Viorica Patraucean
-  affiliation: "Google DeepMind"
+  affiliation: "Google DeepMind London"
   url: "https://scholar.google.com/citations?user=hWzXZUMAAAAJ&hl=en"
   img: "https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=hWzXZUMAAAAJ&citpid=1"
   bio: ""
@@ -20,7 +20,7 @@
   confirmed: true
 
 - name: Valentin Gabeur
-  affiliation: "Google DeepMind"
+  affiliation: "Google DeepMind San Francisco"
   url: "https://gabeur.github.io"
   img: "https://gabeur.github.io/images/valentin_profile_pic.jpg"
   bio: ""

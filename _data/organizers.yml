@@ -1,12 +1,12 @@
 - name: "Priyank Jaini"
-  affiliation: "Google DeepMind"
+  affiliation: "Google DeepMind Toronto"
   url: "https://priyankjaini.github.io/"
   img: "assets/img/priy_jaini.jpg"
   bio: ""
 
 - name: "Robert Geirhos"
-  affiliation: "Google DeepMind"
-  url: "robertgeirhos.com "
+  affiliation: "Google DeepMind Zurich"
+  url: "https://robertgeirhos.com"
   img: "assets/img/rob_geirhos.png"
   bio: ""
 
@@ -24,13 +24,13 @@
 
 - name: "Thaddäus Wiedemer"
   affiliation: "Max Planck Institute for Intelligent Systems"
-  url: "thwiedemer.com"
+  url: "https://thwiedemer.com"
   img: "https://thwiedemer.com/author/thaddaus-wiedemer/avatar_hu9547486193211809809.jpg"
   bio: ""
 
 - name: "Jana Zeller"
   affiliation: "ETH Max Planck Center for Learning Systems"
-  url: "https://jana-z.github.io/ "
+  url: "https://jana-z.github.io"
   img: "https://jana-z.github.io/images/IMG_3722.jpeg"
   bio: ""
 
@@ -41,7 +41,7 @@
   bio: ""
 
 - name: "Effie Li"
-  affiliation: "Google DeepMind"
+  affiliation: "Google DeepMind San Francisco"
   url: "https://effie-li.github.io"
   img: "https://effie-li.github.io/assets/img/prof_pic.jpg"
   bio: ""
