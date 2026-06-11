@@ -24,6 +24,7 @@ latest_posts:
   flex-wrap: wrap;
   gap: 1.5rem;
   margin: 1rem 0 2rem;
+  max-width: 712px;
 }
 .person-card {
   width: 160px;
@@ -134,4 +135,4 @@ The following tracks are unified by the central hypothesis. Each addresses a dif
 {% endfor %}
 </div>
 
-<img src="{{ 'assets/img/organizer_logos.png' | relative_url }}" alt="Organizer affiliations" style="width: 100%; max-width: 800px; display: block; margin: 1rem auto 0;">
+<img src="{{ 'assets/img/organizer_logos.png' | relative_url }}" alt="Organizer affiliations" style="width: 100%; max-width: 712px; display: block; margin: 1rem auto 0;">
